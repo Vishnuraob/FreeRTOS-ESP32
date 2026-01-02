@@ -22,6 +22,8 @@ This project addresses:
 
 •	Fault detection and recovery
 
+<img width="900" height="538" alt="image" src="https://github.com/user-attachments/assets/d900d0d3-a5aa-4af6-9dfc-d497d0982939" />
+
 
 Hardware Used
 
@@ -227,5 +229,4 @@ Future Improvements
 
 •	Extend to multi-sensor fusion
 
-•	Add persistent fault storage
-
+•	Add persistent fault storage/>
