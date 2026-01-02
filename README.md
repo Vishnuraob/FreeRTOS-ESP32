@@ -1,4 +1,4 @@
-#ESP32 FreeRTOS Real-Time Monitoring & Logging System
+# ESP32 FreeRTOS Real-Time Monitoring & Logging System
 
 Overview
 
